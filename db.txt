@@ -1,0 +1,9 @@
+ID
+Name of seeker
+Organi na
+Address
+Ph n upi
+email
+pass
+runtime
+gstin
